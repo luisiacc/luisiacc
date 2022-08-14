@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://profile.codersrank.io/user/luisiacc/">
     <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=luisiacc&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" />
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=luisiacc&badges=3&show-avatar=false&style=--border-radius:10px" />
   </a>
 </p>
 <p align="center">
