@@ -1519,7 +1519,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgcAAgQI/8QAKBAAAQMEAQIFBQAAAAAAAAAAAQIDBAAFBhEhEzESQWFxgQcUQqGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMG/8QAHhEBAAIBBAMAAAAAAAAAAAAAAQACAwQFESExMlH/2gAMAwEAAhEDEQA/APSYTQ+8XLJHro43YxbGobKumVSgtS3CO/bQA3sfFNgmo7kl4VCyS6wUfflxkLLoZfS2hPUJWgjf56oZFDqVw1LvcplhmvToJVLaQ1JacLTqWztOxzsehBBru8NG/prLFzx8z2y4Y8lzbanDtatIAJPyCPilRFOjyQoVshD+TZhBsbqo/gXIlgctt8Ae5qM5shnMri3Oemi0TtdB4JbJS61vjnfcbNbzJTsrJrwXyFESV69OaxaR4+1Su8zS6fasTjB9vsoGKZbbbTFjWlqOU26O2G2nkj+jz9/1VCiSWJjCX4zrbjSuyhUKZSOmeKRYTd5bVqeQhYCQ+ry9BToyGs2rHQLU8z//2Q==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcEBf/EACsQAAEDAwIEBAcAAAAAAAAAAAECAwQABRESIQYTMVEHQXGRFSNCUmGB0f/EABcBAAMBAAAAAAAAAAAAAAAAAAAEBQL/xAAcEQACAwADAQAAAAAAAAAAAAABAgAEEQMSIQX/2gAMAwEAAhEDEQA/ALw6xFjJdeeKi2lOvQPPAzsKMTJd3kTmHm32o8QYKoxbCye4J/mKR3ZK34i0tnCykgEelT527pccwiTJ5nIHMZZZ1lo/nbY5BG9SK3TD5KTBiZSbPKEqG2860GnMkFAOQMHG3tW/H2jajnCchqbYm347pcbJOlzv3z+8120rVjyrDOFOQ6w5f5eITrEGXokL2DjeDp9D0qTXrhW8G5yLpYJ6IrU8a5rT6sBtXUrG3rVBWgZG1THxgiJkfB9Tr6ObNbjOhtwoDjalDKVAbHqaqGonEAqxAWWbSZVfDqZHicHWiOAW/kNrTkdxnf3pWlSlJBz1olCQEBKEjCUpGBShtILLW30CkvoVlTCIzV5iw9n/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAwQI/8QAKBAAAQMDAgUFAQEAAAAAAAAAAQIDBAAFESExBgcSE1EUMkFhcbHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAQL/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIDERMEEjFR/9oADAMBAAIRAxEAPwBk5jX6dw7wwJNuYbcuEh5uMyHNUJWrJJPnABpXt83mHZbhDcv7cO72uSrDioyUIWyM4yMAedtc0y8V2uPY7IJc2RKmMIkNnMl5Tna13GdvnWhMZTTsq1xWBe2Y8p9LrR9d3UEAZ36sgYGdB/KHbyZqxJeBqOJCVLlL0oKmQaxlgZ2rSk2x0g9L8lY8d9QoS5aU9Z6mH1Hz3T/tPbUS+kvhJnual8m3hyRNYjP25YKBbyMISk+F75+zn8pn5XcXWhPEItvoZMf1J7cR117uBrO7YHwCRoR+VGox1o7Y1Fm9W15vRxuS0tJ++sUppjnJR2PHU6pfaxtQ9ZV1e2i8n20PX7qxM5Z//9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
@@ -1878,7 +1878,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 126k out of 52.4m repositories</span>
+                                    <span class="gh">ranked 126k out of 51.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 323 stars</div>
                             </div>
@@ -1959,7 +1959,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 454k out of 52.4m repositories</span>
+                                    <span class="gh">ranked 454k out of 51.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 26 times</div>
                             </div>
@@ -2192,7 +2192,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2023, 15:03:40 (timezone US/Eastern) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Dec 2023, 16:03:15 (timezone US/Eastern) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
