@@ -426,7 +426,7 @@
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 36.8 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
-                        <li>Mostly active on Tuesday</li>
+                        <li>Mostly active on Thursday</li>
                     </ul>
                 </div>
             </section>
@@ -1533,7 +1533,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Sept 2025, 23:11:20 (timezone US/Eastern) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Sept 2025, 00:03:54 (timezone US/Eastern) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
